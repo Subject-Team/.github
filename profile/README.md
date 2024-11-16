@@ -1,48 +1,36 @@
 # Subject Team
 
-Welcome to the official GitHub page of **Subject Team**! We are a dedicated team of software developers committed to creating innovative and efficient solutions for various technological challenges. Our projects span multiple domains, including health monitoring systems and game development libraries.
+### About Subject Team
 
-## Our Projects
+Welcome to the GitHub page of Subject Team! We are a passionate and committed team in the field of computing and technology, dedicated to driving innovation and learning continuously to revolutionize the world of software and technology.
 
-### SLib - Subject Library 📚
+#### Our Philosophy
 
-**SLib** is a Godot library designed to simplify and enhance your development experience. It provides a set of ready-to-use, standard codes that eliminate the need to write repetitive and lengthy scripts. SLib is lightweight, easy to install, and helps make your code more readable and maintainable.
+Our team is built on several key principles:
 
-#### Key Features
-- **Ease of Installation**: SLib is very easy to install. Simply save the `SLib.gd` file in the root directory of your project and add it to the AutoLoad settings in Godot.
-- **Code Readability**: SLib helps make unreadable code readable quickly. It replaces complex and incomprehensible parts with useful and comprehensible expressions.
-- **Efficiency**: Execute multiple lines of code with a single line using SLib, reducing the need to write duplicate sections.
-- **Standardization**: Provides standard ways to perform certain tasks, ensuring consistency across your project.
-- **Small Footprint**: The library requires very little space in your application, currently less than 100KB.
+- **Subjects of Expertise**: We specialize in various topics including programming, system design, cybersecurity, and software development. Our goal is to expand our knowledge and skills in diverse areas.
+- **Subject to Learning and Innovation**: We are constantly seeking continuous learning and innovation. Committed to research and updating our skills and knowledge, we strive to provide the best solutions.
+- **Subject to Principles and Standards**: We adhere to high industry standards and best practices, aiming to deliver top-notch products and services by following these standards.
+- **Subjective Perspectives**: We value the diversity of viewpoints and expertise within our team, leveraging this diversity to move towards common goals.
 
-#### Functionality
-SLib includes a variety of useful functions such as:
-- `GoToScene()`: For transitioning between scenes.
-- `SetProjectSetting()` and `GetProjectSetting()`: For managing project settings.
-- `SaveFile()` and `LoadFile()`: For file operations.
-- `SendError()`, `SendWarning()`, and `SendAlert()`: For error and alert handling.
+#### Our Goals
 
-For detailed documentation and examples, visit our [GitHub repository](https://github.com/Subject-Team).
+- **Create innovative and efficient software**
+- **Improve user experience through smart design**
+- **Enhance security and trust in technology projects**
+- **Continuous learning and improving team skills and knowledge**
 
-### Cohemo - Comprehensive Health Monitoring System 🩺
+### Our Projects
 
-**Cohemo** is a comprehensive health monitoring system designed to provide real-time health data analysis and monitoring. This project aims to enhance healthcare delivery by leveraging advanced technologies to monitor and analyze patient health metrics.
+On this page, you can explore our projects and help us progress and improve through your collaborations and feedback. Our goal is to create software that not only solves problems but also provides an unparalleled user experience.
 
-#### Features
-- **Real-Time Monitoring**: Continuous monitoring of vital health parameters.
-- **Data Analysis**: Advanced algorithms for accurate health data analysis.
-- **User-Friendly Interface**: Intuitive and easy-to-use interface for both healthcare providers and patients.
-- **Secure Data Handling**: Ensures the privacy and security of patient data.
+### Join Us
 
-For more information, check out the [Cohemo repository](https://github.com/Subject-Team).
+We are eager to collaborate with the programming community and technology enthusiasts. If you are interested in working with us, feel free to join us and participate in our projects.
 
-## Contact Us
+For more information, visit our [GitHub Subject Team page](https://github.com/Subject-Team).
 
-For any inquiries or support, feel free to reach out to us at:
-- **Email**: Subject.Team.Contact@gmail.com
-- **Eitaa**: [Subject Team on Eitaa](https://eitaa.com/subject_team)
-
-Thank you for visiting our GitHub page! We look forward to your contributions and feedback.
+Thank you for visiting and supporting us!
 
 ---
 
