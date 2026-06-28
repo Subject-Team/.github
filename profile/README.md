@@ -1,37 +1,48 @@
-# Subject Team
+<div align="center">
+<img width="400" height="400" alt="Subject Team (Logo)" src="https://github.com/user-attachments/assets/c34def19-09b4-4984-9f4b-b42a78d0ade9" />
+</div>
 
-### About Subject Team
+## About Us
 
-Welcome to the GitHub page of Subject Team! We are a passionate and committed team in the field of computing and technology, dedicated to driving innovation and learning continuously to revolutionize the world of software and technology.
+Welcome to the GitHub profile of **Subject Team**.  
+We are a technology team focused on software development, system design, and practical solutions. Our work spans both commercial and open‑source projects, and we believe in building things that are useful, maintainable, and secure.
 
-#### Our Philosophy
-
-Our team is built on several key principles:
-
-- **Subjects of Expertise**: We specialize in various topics including programming, system design, cybersecurity, and software development. Our goal is to expand our knowledge and skills in diverse areas.
-- **Subject to Learning and Innovation**: We are constantly seeking continuous learning and innovation. Committed to research and updating our skills and knowledge, we strive to provide the best solutions.
-- **Subject to Principles and Standards**: We adhere to high industry standards and best practices, aiming to deliver top-notch products and services by following these standards.
-- **Subjective Perspectives**: We value the diversity of viewpoints and expertise within our team, leveraging this diversity to move towards common goals.
-
-#### Our Goals
-
-- **Create innovative and efficient software**
-- **Improve user experience through smart design**
-- **Enhance security and trust in technology projects**
-- **Continuous learning and improving team skills and knowledge**
-
-### Our Projects
-
-On this page, you can explore our projects and help us progress and improve through your collaborations and feedback. Our goal is to create software that not only solves problems but also provides an unparalleled user experience.
-
-### Join Us
-
-We are eager to collaborate with the programming community and technology enthusiasts. If you are interested in working with us, feel free to join us and participate in our projects.
-
-For more information, visit our [GitHub Subject Team page](https://github.com/Subject-Team).
-
-Thank you for visiting and supporting us!
+Right now, we’re in a phase of reorganization and renewal. This profile is being updated to reflect our current direction, and we’re preparing to ramp up activities again with a fresh perspective.
 
 ---
 
-*© 2024 Subject Team. All rights reserved.*
+## What We Do
+
+- **Custom Software Development** – Tailored solutions for business and enterprise needs.
+- **Open‑Source Projects** – Tools and libraries that we share with the community.
+- **System Architecture & Security** – Designing reliable and safe systems.
+- **Continuous Improvement** – We keep learning, reviewing, and refining our work.
+
+---
+
+## Our Projects
+
+Here are some of the projects we maintain or are actively working on:
+
+- **SaJaPa** – One of our core projects, focusing on injecting intelligence into personal healthcare.
+- **SLib** – A utility library designed for simplicity and performance.
+- **Private Software Projects** – Custom applications developed for specific clients and use cases.
+
+You can explore our repositories to see what’s available. Some are public, some are private – but all reflect our approach to clean, thoughtful development.
+
+---
+
+## Get Involved
+
+We’re open to collaboration, feedback, and fresh ideas.  
+If you’re interested in any of our projects, or if you’d like to work with us, feel free to reach out or open an issue/discussion on the relevant repository.
+
+---
+
+## Stay Tuned
+
+This page – and our team – are evolving. More updates, projects, and contributions are on the way.
+
+---
+
+**© 2024–2026 Subject Team. All rights reserved.**
